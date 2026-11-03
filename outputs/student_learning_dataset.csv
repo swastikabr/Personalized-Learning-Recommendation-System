@@ -1,0 +1,501 @@
+previous_score,quiz_score,study_hours,interest,learning_style,completed_topics,difficulty,study_consistency,recommended_resource
+81,58,5,Python,Visual,Basics,Intermediate,Regular,Python Practice
+44,93,8,Python,Auditory,Basics,Intermediate,Irregular,Python Practice
+90,38,1,Machine Learning,Visual,Basics,Intermediate,Irregular,Machine Learning Tutorial
+50,58,1,Database,Practical,Intermediate,Intermediate,Irregular,SQL Practice
+53,86,13,Data Science,Auditory,Basics,Advanced,Irregular,Data Visualization Practice
+32,64,11,Web Development,Visual,Basics,Advanced,Regular,Beginner Tutorial
+51,32,6,Python,Reading,Basics,Beginner,Regular,Python Practice
+82,77,10,Web Development,Auditory,Advanced,Advanced,Regular,Web Development Project
+31,39,12,Web Development,Auditory,Basics,Advanced,Regular,Beginner Tutorial
+59,91,2,Machine Learning,Reading,Advanced,Intermediate,Regular,Machine Learning Tutorial
+67,80,5,Database,Reading,Advanced,Advanced,Irregular,SQL Practice
+31,58,1,Python,Auditory,Basics,Intermediate,Regular,Beginner Tutorial
+93,20,7,Web Development,Reading,Advanced,Beginner,Irregular,Web Development Project
+89,22,1,Python,Practical,Basics,Beginner,Regular,Python Practice
+50,96,4,Data Science,Practical,Intermediate,Advanced,Regular,Data Visualization Practice
+62,81,9,Machine Learning,Practical,Intermediate,Beginner,Regular,Machine Learning Tutorial
+87,82,1,Data Science,Auditory,Intermediate,Advanced,Regular,Data Visualization Practice
+51,44,4,Python,Reading,Intermediate,Beginner,Regular,Python Practice
+78,75,6,Python,Reading,Advanced,Intermediate,Irregular,Python Practice
+88,52,6,Database,Visual,Basics,Intermediate,Irregular,SQL Practice
+71,57,12,Web Development,Visual,Basics,Intermediate,Irregular,Web Development Project
+89,25,13,Web Development,Reading,Basics,Intermediate,Regular,Web Development Project
+44,77,8,Data Science,Reading,Intermediate,Advanced,Regular,Data Visualization Practice
+91,63,1,Machine Learning,Reading,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+91,64,7,Web Development,Auditory,Basics,Advanced,Regular,Web Development Project
+76,51,1,Database,Reading,Intermediate,Intermediate,Regular,SQL Practice
+91,64,13,Data Science,Visual,Basics,Advanced,Irregular,Data Visualization Practice
+80,80,14,Data Science,Auditory,Basics,Beginner,Regular,Data Visualization Practice
+84,66,7,Database,Reading,Basics,Advanced,Irregular,SQL Practice
+93,40,3,Machine Learning,Visual,Basics,Beginner,Regular,Machine Learning Tutorial
+32,99,11,Database,Auditory,Basics,Advanced,Irregular,Beginner Tutorial
+80,94,8,Machine Learning,Reading,Basics,Beginner,Regular,Machine Learning Tutorial
+36,55,3,Database,Reading,Basics,Beginner,Regular,Beginner Tutorial
+50,38,14,Database,Reading,Intermediate,Intermediate,Irregular,SQL Practice
+68,39,14,Python,Auditory,Basics,Beginner,Regular,Python Practice
+47,76,13,Data Science,Visual,Basics,Intermediate,Regular,Data Visualization Practice
+33,37,1,Database,Visual,Intermediate,Intermediate,Irregular,Beginner Tutorial
+89,66,13,Database,Practical,Intermediate,Intermediate,Regular,SQL Practice
+43,68,13,Web Development,Reading,Intermediate,Advanced,Irregular,Web Development Project
+38,33,14,Data Science,Practical,Basics,Advanced,Regular,Beginner Tutorial
+82,34,8,Web Development,Practical,Advanced,Advanced,Regular,Web Development Project
+31,50,3,Data Science,Visual,Advanced,Advanced,Regular,Beginner Tutorial
+89,20,2,Web Development,Auditory,Intermediate,Beginner,Regular,Web Development Project
+100,73,1,Database,Auditory,Advanced,Beginner,Irregular,SQL Practice
+73,22,14,Database,Visual,Intermediate,Advanced,Regular,SQL Practice
+37,35,3,Python,Auditory,Basics,Beginner,Irregular,Beginner Tutorial
+76,76,2,Web Development,Practical,Advanced,Beginner,Regular,Web Development Project
+64,94,2,Machine Learning,Reading,Basics,Intermediate,Regular,Machine Learning Tutorial
+65,31,6,Python,Visual,Advanced,Intermediate,Regular,Python Practice
+79,93,12,Web Development,Reading,Basics,Intermediate,Regular,Web Development Project
+33,35,1,Web Development,Auditory,Advanced,Intermediate,Irregular,Beginner Tutorial
+31,91,2,Python,Reading,Basics,Beginner,Irregular,Beginner Tutorial
+35,95,14,Database,Auditory,Basics,Advanced,Irregular,Beginner Tutorial
+83,43,6,Web Development,Auditory,Advanced,Beginner,Irregular,Web Development Project
+33,47,3,Database,Practical,Basics,Beginner,Regular,Beginner Tutorial
+83,27,4,Python,Auditory,Basics,Beginner,Irregular,Python Practice
+92,55,1,Database,Practical,Basics,Intermediate,Irregular,SQL Practice
+47,27,8,Data Science,Practical,Advanced,Intermediate,Regular,Data Visualization Practice
+73,77,13,Machine Learning,Practical,Advanced,Intermediate,Regular,Machine Learning Tutorial
+63,79,7,Web Development,Visual,Basics,Advanced,Regular,Web Development Project
+91,69,7,Machine Learning,Visual,Basics,Beginner,Regular,Machine Learning Tutorial
+43,47,3,Database,Auditory,Advanced,Advanced,Irregular,SQL Practice
+77,60,10,Web Development,Practical,Advanced,Intermediate,Irregular,Web Development Project
+44,83,10,Database,Visual,Basics,Advanced,Regular,SQL Practice
+91,46,3,Data Science,Practical,Basics,Beginner,Regular,Data Visualization Practice
+69,82,14,Python,Reading,Basics,Beginner,Regular,Python Practice
+82,36,2,Web Development,Reading,Intermediate,Intermediate,Irregular,Web Development Project
+53,92,12,Data Science,Reading,Advanced,Intermediate,Irregular,Data Visualization Practice
+55,52,1,Data Science,Auditory,Intermediate,Advanced,Regular,Data Visualization Practice
+89,96,7,Web Development,Practical,Advanced,Intermediate,Regular,Web Development Project
+70,48,7,Database,Reading,Advanced,Intermediate,Irregular,SQL Practice
+58,32,12,Data Science,Visual,Advanced,Beginner,Regular,Data Visualization Practice
+44,65,2,Machine Learning,Reading,Advanced,Intermediate,Regular,Machine Learning Tutorial
+74,54,7,Data Science,Reading,Advanced,Intermediate,Irregular,Data Visualization Practice
+94,25,13,Database,Reading,Advanced,Beginner,Regular,SQL Practice
+100,88,8,Database,Auditory,Advanced,Beginner,Irregular,SQL Practice
+38,66,1,Machine Learning,Visual,Intermediate,Advanced,Regular,Beginner Tutorial
+30,44,9,Data Science,Practical,Basics,Intermediate,Regular,Beginner Tutorial
+37,85,7,Database,Visual,Basics,Beginner,Irregular,Beginner Tutorial
+92,29,3,Web Development,Practical,Intermediate,Advanced,Irregular,Web Development Project
+40,75,8,Python,Auditory,Intermediate,Advanced,Regular,Python Practice
+37,49,7,Python,Auditory,Intermediate,Intermediate,Irregular,Beginner Tutorial
+64,24,11,Python,Auditory,Intermediate,Intermediate,Regular,Python Practice
+64,52,13,Data Science,Auditory,Advanced,Advanced,Regular,Data Visualization Practice
+62,84,8,Machine Learning,Practical,Basics,Beginner,Irregular,Machine Learning Tutorial
+34,37,6,Database,Reading,Advanced,Advanced,Regular,Beginner Tutorial
+70,68,9,Web Development,Practical,Basics,Intermediate,Regular,Web Development Project
+57,30,5,Web Development,Visual,Basics,Beginner,Irregular,Web Development Project
+36,45,3,Data Science,Auditory,Intermediate,Beginner,Irregular,Beginner Tutorial
+41,82,3,Python,Auditory,Advanced,Advanced,Regular,Python Practice
+63,78,1,Data Science,Visual,Intermediate,Intermediate,Irregular,Data Visualization Practice
+62,46,12,Machine Learning,Practical,Advanced,Advanced,Irregular,Machine Learning Tutorial
+77,68,8,Machine Learning,Reading,Basics,Advanced,Irregular,Machine Learning Tutorial
+52,96,2,Database,Reading,Intermediate,Advanced,Irregular,SQL Practice
+91,52,3,Database,Visual,Intermediate,Beginner,Regular,SQL Practice
+66,20,8,Machine Learning,Reading,Basics,Beginner,Regular,Machine Learning Tutorial
+73,40,14,Machine Learning,Practical,Basics,Intermediate,Regular,Machine Learning Tutorial
+64,74,8,Machine Learning,Practical,Basics,Intermediate,Irregular,Machine Learning Tutorial
+94,25,14,Data Science,Visual,Intermediate,Advanced,Irregular,Data Visualization Practice
+76,100,11,Machine Learning,Practical,Advanced,Advanced,Irregular,Machine Learning Tutorial
+32,88,4,Web Development,Auditory,Intermediate,Advanced,Irregular,Beginner Tutorial
+30,24,4,Python,Visual,Advanced,Intermediate,Irregular,Beginner Tutorial
+34,22,5,Machine Learning,Practical,Intermediate,Beginner,Irregular,Beginner Tutorial
+43,72,6,Python,Visual,Intermediate,Beginner,Irregular,Python Practice
+56,42,5,Data Science,Reading,Basics,Advanced,Regular,Data Visualization Practice
+38,72,14,Python,Practical,Advanced,Advanced,Regular,Beginner Tutorial
+44,56,7,Data Science,Auditory,Intermediate,Advanced,Irregular,Data Visualization Practice
+71,93,2,Web Development,Practical,Intermediate,Advanced,Irregular,Web Development Project
+80,93,7,Data Science,Visual,Basics,Intermediate,Irregular,Data Visualization Practice
+92,36,10,Data Science,Visual,Basics,Beginner,Regular,Data Visualization Practice
+81,97,7,Database,Practical,Advanced,Advanced,Regular,SQL Practice
+33,92,1,Machine Learning,Auditory,Intermediate,Intermediate,Irregular,Beginner Tutorial
+52,20,7,Machine Learning,Auditory,Advanced,Advanced,Irregular,Machine Learning Tutorial
+44,70,5,Web Development,Auditory,Intermediate,Advanced,Regular,Web Development Project
+72,64,3,Web Development,Visual,Advanced,Beginner,Regular,Web Development Project
+58,96,13,Machine Learning,Practical,Basics,Advanced,Regular,Machine Learning Tutorial
+65,23,3,Database,Reading,Intermediate,Beginner,Regular,SQL Practice
+42,81,4,Machine Learning,Visual,Advanced,Beginner,Irregular,Machine Learning Tutorial
+61,84,13,Database,Auditory,Basics,Beginner,Regular,SQL Practice
+100,51,12,Web Development,Practical,Basics,Intermediate,Regular,Web Development Project
+88,53,2,Python,Auditory,Advanced,Intermediate,Irregular,Python Practice
+57,91,2,Web Development,Reading,Intermediate,Beginner,Regular,Web Development Project
+95,58,1,Web Development,Auditory,Intermediate,Advanced,Regular,Web Development Project
+71,45,5,Data Science,Auditory,Basics,Beginner,Regular,Data Visualization Practice
+74,53,4,Data Science,Reading,Intermediate,Advanced,Irregular,Data Visualization Practice
+91,73,11,Data Science,Practical,Intermediate,Beginner,Regular,Data Visualization Practice
+86,22,10,Data Science,Visual,Intermediate,Advanced,Irregular,Data Visualization Practice
+35,69,2,Database,Practical,Basics,Intermediate,Irregular,Beginner Tutorial
+57,31,3,Machine Learning,Reading,Advanced,Advanced,Regular,Machine Learning Tutorial
+57,84,7,Python,Auditory,Intermediate,Beginner,Regular,Python Practice
+73,73,7,Web Development,Practical,Basics,Intermediate,Regular,Web Development Project
+59,24,12,Database,Visual,Basics,Advanced,Regular,SQL Practice
+91,76,4,Python,Reading,Advanced,Advanced,Irregular,Python Practice
+91,36,5,Database,Practical,Intermediate,Advanced,Regular,SQL Practice
+30,66,5,Database,Visual,Intermediate,Advanced,Regular,Beginner Tutorial
+56,42,6,Web Development,Reading,Advanced,Advanced,Regular,Web Development Project
+91,98,14,Machine Learning,Visual,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+32,33,9,Data Science,Reading,Basics,Intermediate,Regular,Beginner Tutorial
+99,85,2,Machine Learning,Auditory,Basics,Intermediate,Regular,Machine Learning Tutorial
+56,94,5,Web Development,Practical,Advanced,Intermediate,Irregular,Web Development Project
+38,70,12,Web Development,Visual,Intermediate,Beginner,Irregular,Beginner Tutorial
+91,57,3,Web Development,Reading,Basics,Intermediate,Regular,Web Development Project
+66,83,4,Python,Visual,Basics,Advanced,Regular,Python Practice
+80,57,10,Machine Learning,Visual,Intermediate,Advanced,Regular,Machine Learning Tutorial
+73,69,6,Machine Learning,Practical,Basics,Intermediate,Regular,Machine Learning Tutorial
+53,49,12,Database,Auditory,Intermediate,Advanced,Regular,SQL Practice
+88,98,8,Database,Visual,Intermediate,Intermediate,Irregular,SQL Practice
+61,70,1,Database,Reading,Intermediate,Advanced,Irregular,SQL Practice
+81,82,10,Web Development,Reading,Advanced,Beginner,Regular,Web Development Project
+91,71,14,Machine Learning,Auditory,Advanced,Beginner,Regular,Machine Learning Tutorial
+87,57,8,Web Development,Reading,Advanced,Intermediate,Irregular,Web Development Project
+81,98,11,Python,Auditory,Intermediate,Intermediate,Regular,Python Practice
+41,49,14,Database,Reading,Intermediate,Intermediate,Regular,SQL Practice
+68,70,7,Web Development,Practical,Advanced,Advanced,Regular,Web Development Project
+31,100,1,Web Development,Visual,Basics,Intermediate,Regular,Beginner Tutorial
+32,24,2,Python,Practical,Intermediate,Beginner,Regular,Beginner Tutorial
+85,48,3,Data Science,Visual,Basics,Advanced,Irregular,Data Visualization Practice
+88,23,1,Machine Learning,Visual,Basics,Intermediate,Regular,Machine Learning Tutorial
+31,29,14,Data Science,Visual,Intermediate,Advanced,Regular,Beginner Tutorial
+31,75,9,Database,Practical,Intermediate,Advanced,Regular,Beginner Tutorial
+83,36,8,Web Development,Visual,Basics,Intermediate,Irregular,Web Development Project
+30,93,2,Python,Practical,Basics,Advanced,Irregular,Beginner Tutorial
+48,36,13,Python,Auditory,Advanced,Beginner,Irregular,Python Practice
+31,88,9,Machine Learning,Reading,Advanced,Beginner,Irregular,Beginner Tutorial
+82,53,7,Data Science,Reading,Intermediate,Advanced,Regular,Data Visualization Practice
+73,25,9,Machine Learning,Visual,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+61,72,6,Web Development,Practical,Advanced,Advanced,Regular,Web Development Project
+99,85,6,Machine Learning,Reading,Advanced,Beginner,Regular,Machine Learning Tutorial
+61,96,11,Python,Practical,Advanced,Advanced,Irregular,Python Practice
+97,62,14,Python,Practical,Basics,Advanced,Irregular,Python Practice
+84,94,4,Database,Visual,Intermediate,Beginner,Irregular,SQL Practice
+85,42,10,Database,Reading,Advanced,Advanced,Irregular,SQL Practice
+46,74,10,Web Development,Visual,Basics,Advanced,Irregular,Web Development Project
+67,99,13,Data Science,Visual,Basics,Intermediate,Regular,Data Visualization Practice
+53,94,13,Machine Learning,Reading,Basics,Intermediate,Irregular,Machine Learning Tutorial
+98,35,2,Web Development,Reading,Advanced,Beginner,Irregular,Web Development Project
+99,27,7,Database,Auditory,Advanced,Beginner,Irregular,SQL Practice
+40,23,5,Machine Learning,Auditory,Intermediate,Beginner,Regular,Machine Learning Tutorial
+45,23,11,Database,Practical,Advanced,Intermediate,Irregular,SQL Practice
+88,75,6,Machine Learning,Reading,Advanced,Beginner,Regular,Machine Learning Tutorial
+99,44,2,Data Science,Auditory,Basics,Beginner,Irregular,Data Visualization Practice
+32,86,5,Web Development,Practical,Intermediate,Beginner,Irregular,Beginner Tutorial
+49,86,10,Machine Learning,Practical,Advanced,Intermediate,Regular,Machine Learning Tutorial
+88,46,4,Python,Practical,Advanced,Advanced,Irregular,Python Practice
+65,51,9,Python,Auditory,Basics,Beginner,Regular,Python Practice
+48,69,6,Machine Learning,Reading,Basics,Advanced,Regular,Machine Learning Tutorial
+96,80,2,Machine Learning,Visual,Advanced,Beginner,Regular,Machine Learning Tutorial
+48,70,1,Machine Learning,Practical,Intermediate,Advanced,Irregular,Machine Learning Tutorial
+49,38,5,Python,Auditory,Intermediate,Intermediate,Irregular,Python Practice
+100,40,9,Python,Auditory,Basics,Intermediate,Irregular,Python Practice
+81,24,6,Machine Learning,Visual,Basics,Beginner,Regular,Machine Learning Tutorial
+62,61,10,Database,Visual,Advanced,Advanced,Irregular,SQL Practice
+69,80,12,Database,Auditory,Basics,Intermediate,Regular,SQL Practice
+68,41,7,Data Science,Reading,Advanced,Beginner,Irregular,Data Visualization Practice
+30,40,5,Web Development,Visual,Intermediate,Beginner,Regular,Beginner Tutorial
+40,89,10,Database,Auditory,Intermediate,Intermediate,Regular,SQL Practice
+86,20,6,Python,Visual,Advanced,Intermediate,Regular,Python Practice
+79,24,5,Database,Reading,Basics,Beginner,Irregular,SQL Practice
+52,31,11,Data Science,Practical,Intermediate,Advanced,Regular,Data Visualization Practice
+60,65,9,Data Science,Visual,Basics,Advanced,Regular,Data Visualization Practice
+71,53,6,Web Development,Reading,Intermediate,Advanced,Regular,Web Development Project
+36,68,11,Database,Auditory,Advanced,Beginner,Regular,Beginner Tutorial
+45,97,8,Python,Visual,Advanced,Intermediate,Regular,Python Practice
+89,64,2,Python,Visual,Advanced,Beginner,Regular,Python Practice
+31,46,12,Machine Learning,Auditory,Intermediate,Intermediate,Irregular,Beginner Tutorial
+30,92,13,Python,Practical,Basics,Advanced,Irregular,Beginner Tutorial
+77,45,9,Web Development,Auditory,Basics,Advanced,Regular,Web Development Project
+41,66,5,Web Development,Visual,Basics,Intermediate,Irregular,Web Development Project
+98,75,7,Python,Auditory,Intermediate,Intermediate,Irregular,Python Practice
+66,82,10,Python,Reading,Intermediate,Beginner,Regular,Python Practice
+61,67,13,Machine Learning,Auditory,Intermediate,Advanced,Regular,Machine Learning Tutorial
+38,80,1,Python,Visual,Intermediate,Beginner,Regular,Beginner Tutorial
+48,100,10,Machine Learning,Auditory,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+77,45,5,Machine Learning,Practical,Basics,Beginner,Regular,Machine Learning Tutorial
+32,55,12,Python,Auditory,Intermediate,Advanced,Irregular,Beginner Tutorial
+49,20,14,Data Science,Practical,Intermediate,Beginner,Regular,Data Visualization Practice
+53,27,10,Data Science,Reading,Basics,Beginner,Irregular,Data Visualization Practice
+83,71,14,Machine Learning,Practical,Intermediate,Beginner,Regular,Machine Learning Tutorial
+62,98,2,Python,Auditory,Basics,Beginner,Regular,Python Practice
+53,66,12,Data Science,Visual,Basics,Beginner,Irregular,Data Visualization Practice
+65,75,6,Python,Practical,Advanced,Beginner,Irregular,Python Practice
+67,33,11,Python,Reading,Advanced,Advanced,Irregular,Python Practice
+54,47,1,Python,Practical,Advanced,Beginner,Irregular,Python Practice
+47,97,3,Database,Practical,Advanced,Intermediate,Irregular,SQL Practice
+95,21,5,Python,Practical,Intermediate,Beginner,Irregular,Python Practice
+83,45,4,Database,Reading,Advanced,Beginner,Regular,SQL Practice
+64,33,3,Machine Learning,Auditory,Basics,Advanced,Irregular,Machine Learning Tutorial
+90,78,10,Data Science,Practical,Intermediate,Advanced,Regular,Data Visualization Practice
+70,75,13,Data Science,Practical,Advanced,Intermediate,Regular,Data Visualization Practice
+62,26,5,Data Science,Visual,Basics,Intermediate,Irregular,Data Visualization Practice
+97,22,11,Data Science,Reading,Intermediate,Advanced,Regular,Data Visualization Practice
+62,42,8,Data Science,Practical,Intermediate,Advanced,Irregular,Data Visualization Practice
+43,37,11,Data Science,Reading,Advanced,Beginner,Irregular,Data Visualization Practice
+50,57,4,Data Science,Practical,Intermediate,Advanced,Regular,Data Visualization Practice
+77,34,1,Machine Learning,Auditory,Basics,Intermediate,Regular,Machine Learning Tutorial
+49,83,11,Python,Auditory,Intermediate,Beginner,Irregular,Python Practice
+37,47,7,Web Development,Practical,Basics,Intermediate,Irregular,Beginner Tutorial
+36,93,8,Database,Auditory,Intermediate,Beginner,Regular,Beginner Tutorial
+96,58,3,Web Development,Practical,Advanced,Advanced,Regular,Web Development Project
+46,76,6,Web Development,Auditory,Basics,Intermediate,Regular,Web Development Project
+62,36,2,Python,Visual,Intermediate,Beginner,Regular,Python Practice
+77,63,7,Python,Visual,Intermediate,Beginner,Irregular,Python Practice
+88,44,8,Python,Visual,Intermediate,Advanced,Irregular,Python Practice
+51,36,6,Data Science,Reading,Basics,Advanced,Irregular,Data Visualization Practice
+59,32,6,Machine Learning,Reading,Basics,Advanced,Irregular,Machine Learning Tutorial
+67,44,5,Data Science,Visual,Basics,Intermediate,Regular,Data Visualization Practice
+80,87,8,Machine Learning,Reading,Advanced,Beginner,Regular,Machine Learning Tutorial
+83,29,1,Machine Learning,Auditory,Advanced,Advanced,Irregular,Machine Learning Tutorial
+37,86,10,Web Development,Practical,Basics,Intermediate,Irregular,Beginner Tutorial
+56,37,4,Web Development,Practical,Intermediate,Intermediate,Irregular,Web Development Project
+56,53,4,Machine Learning,Practical,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+50,27,3,Machine Learning,Visual,Basics,Advanced,Irregular,Machine Learning Tutorial
+59,59,3,Data Science,Reading,Intermediate,Advanced,Irregular,Data Visualization Practice
+57,61,4,Data Science,Auditory,Advanced,Beginner,Irregular,Data Visualization Practice
+93,60,11,Web Development,Auditory,Intermediate,Beginner,Irregular,Web Development Project
+98,25,1,Python,Visual,Intermediate,Advanced,Irregular,Python Practice
+90,71,14,Machine Learning,Auditory,Intermediate,Intermediate,Regular,Machine Learning Tutorial
+77,45,11,Data Science,Auditory,Intermediate,Intermediate,Irregular,Data Visualization Practice
+48,83,13,Web Development,Auditory,Advanced,Intermediate,Regular,Web Development Project
+33,78,11,Data Science,Auditory,Advanced,Beginner,Regular,Beginner Tutorial
+64,75,2,Machine Learning,Reading,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+93,78,9,Machine Learning,Auditory,Basics,Beginner,Irregular,Machine Learning Tutorial
+78,89,10,Database,Practical,Advanced,Beginner,Regular,SQL Practice
+46,52,2,Python,Visual,Intermediate,Intermediate,Regular,Python Practice
+73,72,5,Database,Reading,Advanced,Intermediate,Irregular,SQL Practice
+59,41,9,Web Development,Auditory,Intermediate,Advanced,Regular,Web Development Project
+75,40,9,Data Science,Reading,Basics,Advanced,Irregular,Data Visualization Practice
+35,89,8,Web Development,Auditory,Intermediate,Intermediate,Irregular,Beginner Tutorial
+66,89,1,Machine Learning,Practical,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+53,23,1,Database,Visual,Intermediate,Beginner,Regular,SQL Practice
+75,94,9,Database,Auditory,Basics,Beginner,Regular,SQL Practice
+82,81,13,Database,Auditory,Advanced,Beginner,Irregular,SQL Practice
+89,81,11,Web Development,Auditory,Advanced,Beginner,Regular,Web Development Project
+92,43,8,Machine Learning,Auditory,Basics,Advanced,Regular,Machine Learning Tutorial
+61,74,10,Data Science,Visual,Intermediate,Intermediate,Regular,Data Visualization Practice
+62,28,9,Data Science,Visual,Advanced,Advanced,Regular,Data Visualization Practice
+96,22,7,Web Development,Practical,Basics,Beginner,Regular,Web Development Project
+47,50,3,Database,Visual,Advanced,Beginner,Regular,SQL Practice
+54,59,3,Python,Auditory,Basics,Beginner,Regular,Python Practice
+83,55,2,Web Development,Practical,Intermediate,Beginner,Irregular,Web Development Project
+87,43,5,Web Development,Practical,Advanced,Intermediate,Regular,Web Development Project
+96,25,12,Machine Learning,Practical,Basics,Beginner,Regular,Machine Learning Tutorial
+75,85,12,Data Science,Auditory,Advanced,Intermediate,Regular,Data Visualization Practice
+53,94,3,Web Development,Reading,Advanced,Beginner,Regular,Web Development Project
+61,23,14,Web Development,Auditory,Advanced,Intermediate,Regular,Web Development Project
+76,98,6,Database,Visual,Advanced,Advanced,Regular,SQL Practice
+52,25,2,Database,Visual,Basics,Beginner,Regular,SQL Practice
+95,70,12,Python,Auditory,Intermediate,Intermediate,Regular,Python Practice
+56,81,3,Machine Learning,Auditory,Basics,Advanced,Irregular,Machine Learning Tutorial
+31,76,5,Python,Practical,Basics,Beginner,Regular,Beginner Tutorial
+46,85,12,Database,Auditory,Basics,Beginner,Regular,SQL Practice
+62,98,11,Data Science,Practical,Intermediate,Beginner,Regular,Data Visualization Practice
+38,94,11,Database,Visual,Advanced,Intermediate,Regular,Beginner Tutorial
+72,27,1,Machine Learning,Practical,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+77,45,13,Database,Auditory,Advanced,Advanced,Irregular,SQL Practice
+68,70,1,Machine Learning,Visual,Intermediate,Intermediate,Irregular,Machine Learning Tutorial
+71,64,10,Machine Learning,Reading,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+55,63,9,Machine Learning,Practical,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+79,24,7,Machine Learning,Visual,Advanced,Beginner,Irregular,Machine Learning Tutorial
+54,89,1,Machine Learning,Practical,Advanced,Beginner,Irregular,Machine Learning Tutorial
+53,45,12,Data Science,Visual,Basics,Beginner,Irregular,Data Visualization Practice
+42,87,14,Python,Visual,Intermediate,Beginner,Irregular,Python Practice
+89,38,8,Web Development,Practical,Basics,Beginner,Irregular,Web Development Project
+36,39,3,Python,Reading,Basics,Beginner,Irregular,Beginner Tutorial
+86,31,8,Machine Learning,Visual,Basics,Advanced,Irregular,Machine Learning Tutorial
+65,66,5,Data Science,Visual,Intermediate,Advanced,Irregular,Data Visualization Practice
+74,20,1,Database,Visual,Intermediate,Advanced,Irregular,SQL Practice
+49,33,7,Data Science,Reading,Advanced,Advanced,Irregular,Data Visualization Practice
+94,83,5,Machine Learning,Reading,Basics,Beginner,Irregular,Machine Learning Tutorial
+37,57,6,Data Science,Auditory,Advanced,Advanced,Regular,Beginner Tutorial
+45,56,6,Data Science,Practical,Basics,Beginner,Irregular,Data Visualization Practice
+43,30,8,Machine Learning,Reading,Intermediate,Advanced,Regular,Machine Learning Tutorial
+44,96,9,Data Science,Practical,Intermediate,Intermediate,Irregular,Data Visualization Practice
+95,22,2,Web Development,Auditory,Intermediate,Advanced,Irregular,Web Development Project
+61,52,9,Web Development,Practical,Basics,Advanced,Regular,Web Development Project
+92,25,12,Data Science,Reading,Intermediate,Beginner,Irregular,Data Visualization Practice
+80,69,11,Database,Practical,Basics,Advanced,Regular,SQL Practice
+54,29,10,Machine Learning,Reading,Advanced,Intermediate,Regular,Machine Learning Tutorial
+87,24,9,Web Development,Practical,Basics,Beginner,Regular,Web Development Project
+92,42,13,Database,Reading,Advanced,Beginner,Irregular,SQL Practice
+91,29,10,Data Science,Reading,Basics,Advanced,Irregular,Data Visualization Practice
+51,63,10,Database,Practical,Advanced,Beginner,Irregular,SQL Practice
+87,21,7,Python,Auditory,Intermediate,Beginner,Regular,Python Practice
+87,32,1,Web Development,Visual,Advanced,Beginner,Regular,Web Development Project
+78,59,7,Data Science,Auditory,Intermediate,Beginner,Irregular,Data Visualization Practice
+81,21,10,Machine Learning,Practical,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+71,84,5,Data Science,Auditory,Advanced,Beginner,Irregular,Data Visualization Practice
+99,82,6,Machine Learning,Reading,Basics,Intermediate,Irregular,Machine Learning Tutorial
+44,92,10,Data Science,Visual,Basics,Advanced,Irregular,Data Visualization Practice
+83,36,7,Database,Practical,Basics,Intermediate,Regular,SQL Practice
+89,28,14,Database,Practical,Basics,Beginner,Regular,SQL Practice
+37,94,5,Database,Practical,Basics,Beginner,Regular,Beginner Tutorial
+82,34,7,Python,Visual,Intermediate,Advanced,Irregular,Python Practice
+89,43,9,Machine Learning,Reading,Basics,Intermediate,Regular,Machine Learning Tutorial
+34,57,3,Database,Practical,Intermediate,Advanced,Regular,Beginner Tutorial
+97,54,8,Python,Auditory,Intermediate,Intermediate,Regular,Python Practice
+35,68,2,Machine Learning,Practical,Intermediate,Beginner,Regular,Beginner Tutorial
+76,88,11,Data Science,Practical,Advanced,Advanced,Regular,Data Visualization Practice
+84,81,7,Python,Practical,Advanced,Advanced,Irregular,Python Practice
+69,79,13,Web Development,Practical,Intermediate,Beginner,Regular,Web Development Project
+81,69,2,Python,Reading,Advanced,Advanced,Irregular,Python Practice
+45,97,14,Python,Auditory,Basics,Intermediate,Irregular,Python Practice
+42,94,4,Machine Learning,Reading,Basics,Intermediate,Irregular,Machine Learning Tutorial
+59,28,7,Data Science,Auditory,Intermediate,Intermediate,Irregular,Data Visualization Practice
+48,53,3,Web Development,Practical,Basics,Intermediate,Irregular,Web Development Project
+46,95,2,Database,Visual,Intermediate,Beginner,Regular,SQL Practice
+92,54,11,Database,Reading,Intermediate,Advanced,Regular,SQL Practice
+48,20,10,Python,Visual,Basics,Intermediate,Irregular,Python Practice
+87,59,7,Machine Learning,Reading,Advanced,Beginner,Irregular,Machine Learning Tutorial
+84,83,1,Machine Learning,Practical,Basics,Advanced,Irregular,Machine Learning Tutorial
+91,41,14,Database,Reading,Basics,Advanced,Regular,SQL Practice
+52,79,8,Web Development,Practical,Intermediate,Beginner,Irregular,Web Development Project
+38,83,3,Data Science,Reading,Intermediate,Beginner,Regular,Beginner Tutorial
+41,91,12,Web Development,Practical,Intermediate,Intermediate,Irregular,Web Development Project
+30,30,12,Data Science,Practical,Intermediate,Advanced,Regular,Beginner Tutorial
+87,33,13,Database,Auditory,Advanced,Advanced,Irregular,SQL Practice
+30,79,2,Data Science,Practical,Advanced,Beginner,Regular,Beginner Tutorial
+63,49,3,Machine Learning,Auditory,Advanced,Advanced,Irregular,Machine Learning Tutorial
+77,54,5,Python,Practical,Intermediate,Intermediate,Regular,Python Practice
+30,56,11,Python,Visual,Intermediate,Advanced,Regular,Beginner Tutorial
+45,24,8,Database,Practical,Intermediate,Beginner,Regular,SQL Practice
+90,97,10,Machine Learning,Visual,Advanced,Beginner,Regular,Machine Learning Tutorial
+93,45,7,Web Development,Visual,Intermediate,Intermediate,Regular,Web Development Project
+92,81,7,Machine Learning,Practical,Basics,Intermediate,Regular,Machine Learning Tutorial
+98,23,12,Python,Visual,Basics,Advanced,Regular,Python Practice
+51,61,7,Python,Auditory,Intermediate,Advanced,Irregular,Python Practice
+96,37,8,Machine Learning,Reading,Basics,Beginner,Irregular,Machine Learning Tutorial
+55,59,1,Machine Learning,Practical,Basics,Intermediate,Irregular,Machine Learning Tutorial
+45,91,4,Python,Visual,Advanced,Intermediate,Irregular,Python Practice
+80,58,13,Web Development,Practical,Intermediate,Intermediate,Irregular,Web Development Project
+86,33,6,Database,Auditory,Intermediate,Advanced,Regular,SQL Practice
+58,51,9,Database,Practical,Advanced,Intermediate,Regular,SQL Practice
+98,70,13,Machine Learning,Practical,Basics,Beginner,Regular,Machine Learning Tutorial
+76,57,2,Database,Visual,Basics,Beginner,Regular,SQL Practice
+91,42,1,Python,Auditory,Intermediate,Advanced,Regular,Python Practice
+98,82,13,Python,Reading,Basics,Advanced,Irregular,Python Practice
+45,34,10,Machine Learning,Reading,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+77,44,12,Machine Learning,Visual,Advanced,Advanced,Irregular,Machine Learning Tutorial
+68,36,14,Machine Learning,Practical,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+62,85,2,Web Development,Visual,Advanced,Intermediate,Regular,Web Development Project
+52,97,7,Database,Visual,Advanced,Beginner,Regular,SQL Practice
+39,72,3,Machine Learning,Visual,Intermediate,Intermediate,Regular,Beginner Tutorial
+98,70,10,Data Science,Practical,Advanced,Advanced,Irregular,Data Visualization Practice
+63,58,2,Data Science,Auditory,Advanced,Intermediate,Regular,Data Visualization Practice
+81,70,14,Python,Visual,Advanced,Intermediate,Irregular,Python Practice
+39,89,11,Database,Practical,Basics,Beginner,Regular,Beginner Tutorial
+48,25,7,Machine Learning,Auditory,Intermediate,Beginner,Regular,Machine Learning Tutorial
+87,86,13,Data Science,Visual,Intermediate,Intermediate,Irregular,Data Visualization Practice
+30,26,13,Database,Reading,Intermediate,Advanced,Regular,Beginner Tutorial
+98,70,2,Python,Auditory,Basics,Advanced,Regular,Python Practice
+33,91,3,Web Development,Visual,Basics,Beginner,Irregular,Beginner Tutorial
+45,61,11,Database,Auditory,Intermediate,Advanced,Regular,SQL Practice
+53,83,7,Database,Auditory,Basics,Beginner,Irregular,SQL Practice
+31,34,14,Web Development,Auditory,Intermediate,Advanced,Regular,Beginner Tutorial
+61,48,4,Database,Auditory,Basics,Intermediate,Regular,SQL Practice
+53,52,13,Python,Auditory,Advanced,Beginner,Regular,Python Practice
+41,46,14,Python,Auditory,Advanced,Beginner,Regular,Python Practice
+79,55,1,Web Development,Visual,Intermediate,Intermediate,Regular,Web Development Project
+64,48,13,Machine Learning,Reading,Basics,Beginner,Regular,Machine Learning Tutorial
+62,57,14,Data Science,Practical,Basics,Advanced,Regular,Data Visualization Practice
+62,76,5,Machine Learning,Auditory,Advanced,Advanced,Regular,Machine Learning Tutorial
+90,46,12,Database,Practical,Advanced,Beginner,Irregular,SQL Practice
+80,74,9,Data Science,Visual,Basics,Advanced,Irregular,Data Visualization Practice
+72,52,8,Web Development,Auditory,Basics,Beginner,Regular,Web Development Project
+41,87,12,Web Development,Reading,Basics,Intermediate,Regular,Web Development Project
+96,85,9,Data Science,Practical,Basics,Beginner,Irregular,Data Visualization Practice
+94,29,10,Python,Auditory,Basics,Intermediate,Regular,Python Practice
+62,24,14,Data Science,Visual,Basics,Advanced,Regular,Data Visualization Practice
+69,93,9,Database,Reading,Intermediate,Intermediate,Irregular,SQL Practice
+72,57,7,Python,Practical,Basics,Advanced,Regular,Python Practice
+73,32,4,Web Development,Practical,Advanced,Beginner,Regular,Web Development Project
+58,50,5,Data Science,Auditory,Intermediate,Advanced,Irregular,Data Visualization Practice
+42,66,1,Machine Learning,Reading,Basics,Beginner,Regular,Machine Learning Tutorial
+41,71,14,Machine Learning,Reading,Advanced,Beginner,Regular,Machine Learning Tutorial
+75,75,1,Database,Reading,Intermediate,Intermediate,Irregular,SQL Practice
+31,34,3,Machine Learning,Reading,Advanced,Intermediate,Regular,Beginner Tutorial
+64,48,13,Data Science,Visual,Basics,Intermediate,Irregular,Data Visualization Practice
+37,27,14,Data Science,Reading,Basics,Intermediate,Regular,Beginner Tutorial
+55,24,8,Machine Learning,Practical,Basics,Advanced,Regular,Machine Learning Tutorial
+63,48,14,Data Science,Practical,Basics,Advanced,Irregular,Data Visualization Practice
+36,66,2,Database,Visual,Intermediate,Advanced,Irregular,Beginner Tutorial
+97,87,4,Python,Practical,Intermediate,Beginner,Regular,Python Practice
+87,95,2,Database,Practical,Advanced,Advanced,Irregular,SQL Practice
+58,64,14,Database,Reading,Basics,Advanced,Irregular,SQL Practice
+65,21,5,Data Science,Practical,Advanced,Advanced,Regular,Data Visualization Practice
+50,46,9,Python,Visual,Intermediate,Intermediate,Regular,Python Practice
+65,55,1,Data Science,Reading,Basics,Advanced,Regular,Data Visualization Practice
+39,55,5,Web Development,Auditory,Basics,Beginner,Irregular,Beginner Tutorial
+53,45,14,Data Science,Reading,Intermediate,Intermediate,Irregular,Data Visualization Practice
+93,62,9,Data Science,Visual,Intermediate,Beginner,Irregular,Data Visualization Practice
+78,46,1,Data Science,Reading,Intermediate,Advanced,Irregular,Data Visualization Practice
+65,88,9,Python,Reading,Intermediate,Intermediate,Regular,Python Practice
+53,39,8,Data Science,Visual,Intermediate,Beginner,Irregular,Data Visualization Practice
+52,30,4,Python,Reading,Basics,Advanced,Regular,Python Practice
+91,93,12,Machine Learning,Visual,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+66,57,11,Web Development,Visual,Basics,Beginner,Regular,Web Development Project
+41,25,10,Python,Auditory,Basics,Beginner,Regular,Python Practice
+84,91,5,Machine Learning,Practical,Intermediate,Advanced,Regular,Machine Learning Tutorial
+42,42,13,Python,Practical,Intermediate,Advanced,Irregular,Python Practice
+52,66,5,Python,Reading,Basics,Beginner,Regular,Python Practice
+59,65,11,Web Development,Reading,Intermediate,Intermediate,Regular,Web Development Project
+46,31,12,Database,Auditory,Intermediate,Intermediate,Irregular,SQL Practice
+91,32,6,Database,Auditory,Intermediate,Advanced,Regular,SQL Practice
+42,81,7,Python,Auditory,Advanced,Advanced,Irregular,Python Practice
+88,79,8,Data Science,Visual,Basics,Advanced,Irregular,Data Visualization Practice
+48,62,14,Machine Learning,Auditory,Advanced,Advanced,Regular,Machine Learning Tutorial
+78,95,8,Data Science,Auditory,Intermediate,Advanced,Regular,Data Visualization Practice
+41,87,11,Data Science,Reading,Advanced,Intermediate,Irregular,Data Visualization Practice
+90,24,14,Python,Auditory,Intermediate,Advanced,Regular,Python Practice
+48,56,13,Python,Visual,Advanced,Beginner,Irregular,Python Practice
+38,91,2,Python,Visual,Intermediate,Beginner,Irregular,Beginner Tutorial
+100,50,9,Python,Reading,Advanced,Intermediate,Irregular,Python Practice
+57,28,7,Database,Auditory,Advanced,Beginner,Regular,SQL Practice
+81,70,4,Python,Auditory,Advanced,Intermediate,Irregular,Python Practice
+45,48,4,Database,Visual,Basics,Intermediate,Regular,SQL Practice
+98,97,11,Database,Auditory,Advanced,Beginner,Regular,SQL Practice
+41,59,8,Python,Auditory,Basics,Advanced,Regular,Python Practice
+54,60,4,Web Development,Auditory,Intermediate,Beginner,Regular,Web Development Project
+81,30,13,Machine Learning,Practical,Advanced,Beginner,Irregular,Machine Learning Tutorial
+82,42,6,Data Science,Reading,Intermediate,Intermediate,Regular,Data Visualization Practice
+52,20,5,Database,Practical,Intermediate,Beginner,Irregular,SQL Practice
+45,65,3,Machine Learning,Reading,Advanced,Intermediate,Irregular,Machine Learning Tutorial
+86,40,13,Web Development,Visual,Basics,Advanced,Regular,Web Development Project
+68,55,14,Data Science,Auditory,Advanced,Advanced,Irregular,Data Visualization Practice
+82,73,10,Data Science,Reading,Intermediate,Advanced,Irregular,Data Visualization Practice
+71,76,11,Database,Practical,Intermediate,Beginner,Regular,SQL Practice
+87,20,2,Python,Auditory,Advanced,Intermediate,Irregular,Python Practice
+68,82,9,Web Development,Visual,Basics,Advanced,Irregular,Web Development Project
+43,73,10,Database,Reading,Basics,Intermediate,Irregular,SQL Practice
+34,74,9,Web Development,Reading,Intermediate,Intermediate,Irregular,Beginner Tutorial
+64,59,1,Python,Reading,Intermediate,Advanced,Regular,Python Practice
+47,34,10,Python,Auditory,Basics,Advanced,Irregular,Python Practice
+38,40,3,Database,Practical,Advanced,Intermediate,Irregular,Beginner Tutorial
+87,66,8,Python,Practical,Intermediate,Advanced,Irregular,Python Practice
+46,92,6,Machine Learning,Reading,Basics,Intermediate,Irregular,Machine Learning Tutorial
+36,72,5,Data Science,Visual,Intermediate,Intermediate,Regular,Beginner Tutorial
+75,28,5,Database,Visual,Advanced,Advanced,Irregular,SQL Practice
+42,93,6,Web Development,Practical,Basics,Beginner,Regular,Web Development Project
+69,71,7,Machine Learning,Visual,Intermediate,Advanced,Irregular,Machine Learning Tutorial
+71,76,1,Database,Practical,Advanced,Beginner,Regular,SQL Practice
+38,45,9,Python,Reading,Intermediate,Intermediate,Regular,Beginner Tutorial
+79,60,3,Python,Practical,Advanced,Intermediate,Regular,Python Practice
+56,54,4,Python,Practical,Advanced,Beginner,Regular,Python Practice
+95,82,10,Python,Reading,Basics,Intermediate,Regular,Python Practice
+34,44,1,Web Development,Visual,Advanced,Beginner,Irregular,Beginner Tutorial
+58,94,13,Machine Learning,Practical,Intermediate,Beginner,Irregular,Machine Learning Tutorial
+66,57,11,Data Science,Practical,Advanced,Intermediate,Irregular,Data Visualization Practice
+67,21,10,Web Development,Reading,Advanced,Beginner,Regular,Web Development Project
+37,26,3,Web Development,Visual,Basics,Advanced,Irregular,Beginner Tutorial
+94,53,2,Data Science,Practical,Advanced,Advanced,Regular,Data Visualization Practice
+46,36,2,Data Science,Reading,Advanced,Intermediate,Regular,Data Visualization Practice
+100,62,14,Python,Practical,Intermediate,Intermediate,Irregular,Python Practice
+74,78,1,Web Development,Auditory,Basics,Beginner,Irregular,Web Development Project
+33,70,8,Database,Reading,Basics,Beginner,Regular,Beginner Tutorial
+65,73,3,Data Science,Visual,Basics,Beginner,Regular,Data Visualization Practice
+99,43,3,Data Science,Visual,Advanced,Beginner,Irregular,Data Visualization Practice
+60,44,6,Machine Learning,Visual,Basics,Advanced,Irregular,Machine Learning Tutorial
+48,90,13,Database,Visual,Advanced,Advanced,Irregular,SQL Practice
+90,71,8,Database,Practical,Advanced,Intermediate,Irregular,SQL Practice
+83,89,13,Data Science,Practical,Intermediate,Beginner,Regular,Data Visualization Practice
